@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{7D8901CB-EF1F-496F-AD98-0B8E462A77D2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KcEngine", "KcEngine\KcEngine.vcxproj", "{B5EB9FCE-5BC6-480B-A7D3-2540F078CFB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5EB9FCE-5BC6-480B-A7D3-2540F078CFB7}.Debug|x64.ActiveCfg = Debug|x64
+		{B5EB9FCE-5BC6-480B-A7D3-2540F078CFB7}.Debug|x64.Build.0 = Debug|x64
+		{B5EB9FCE-5BC6-480B-A7D3-2540F078CFB7}.Release|x64.ActiveCfg = Release|x64
+		{B5EB9FCE-5BC6-480B-A7D3-2540F078CFB7}.Release|x64.Build.0 = Release|x64
+		{7D8901CB-EF1F-496F-AD98-0B8E462A77D2}.Debug|x64.ActiveCfg = Debug|x64
+		{7D8901CB-EF1F-496F-AD98-0B8E462A77D2}.Debug|x64.Build.0 = Debug|x64
+		{7D8901CB-EF1F-496F-AD98-0B8E462A77D2}.Release|x64.ActiveCfg = Release|x64
+		{7D8901CB-EF1F-496F-AD98-0B8E462A77D2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D2F27C5-3A8E-46F6-A485-E613C598FB1F}
+	EndGlobalSection
+EndGlobal
